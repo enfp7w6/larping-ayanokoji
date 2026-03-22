@@ -51,8 +51,10 @@ ReviewController.php:L85-99
 
    the administrator can delete user reviews. 5pts
    ReviewController.php:L101-114
+
 mp5 validation 15pts
-form validation 
+
+form validation
 #ProductController.php:L61-75
 
 add/edit product/service. 
@@ -63,8 +65,14 @@ user registration validation 15pts
 
 mp6 filter 15pts 
    * apply filter when a search for a service or product is made.
+   ShopController.php:L16-L25
+
    product/services filter by price 10pts
+   ShopController.php:L44-L49
+
    product/services filter by price and category/brand/type 15pts
+   ShopController.php:L36-L50
+
 
 mp7 charts 15pts
    charts yearly sales 8pts
@@ -73,9 +81,12 @@ mp7 charts 15pts
 
 mp8 search 15pts
    search products on home page(no datatable search). use LIKE query 8pts
+ShopController.php L21-L24
    search products on home page(no datatable search). use model search 10pts
-   search products on home page(no datatable search). use laravel scout with result pagination 15pts
+Product.phpL34-L41
 
+   search products on home page(no datatable search). use laravel scout with result pagination 15pts
+ShopController.php L21-L26
 
 
 term test lab 30pts
