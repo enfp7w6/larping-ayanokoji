@@ -47,7 +47,8 @@ mp4 Product review CRUD 20pts
    customers that bought a product or service can post a review/comment and rating on that service or product. 8pts
    ReviewController.php:L54-61
 
-   customers that bought a product or service can post and update a review/comment and rating on that service or product. 10pts
+   customers that bought a product or service can post and update a review/comment and rating on that service or product.
+ReviewController.php: L63-81
 
    list all reviews on a datatable. 5pts
 ReviewController.php:L85-99
